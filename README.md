@@ -16,53 +16,127 @@ I’m Antony Aakash, a motivated Electrical and Electronics Engineering undergra
 ### 🚀 Languages & Tools I Use
 
 #### Programming Languages  
-[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg =auto x30)](https://www.python.org/)  
-[![Dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg =auto x30)](https://dart.dev/)  
-[![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg =auto x30)](https://www.oracle.com/java/)  
-[![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg =auto x30)](https://en.cppreference.com/w/)  
-[![Scilab](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Scilab_logo.svg/1200px-Scilab_logo.svg.png =auto x30)](https://www.scilab.org/)  
-[![Matlab](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png =auto x30)](https://www.mathworks.com/products/matlab.html)  
-[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg =auto x30)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+<a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" style="margin-right:8px;" />
+</a>
+<a href="https://dart.dev/" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="30" height="30" style="margin-right:8px;" />
+</a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30" style="margin-right:8px;" />
+</a>
+<a href="https://en.cppreference.com/w/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30" style="margin-right:8px;" />
+</a>
+<a href="https://www.scilab.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Scilab_logo.svg/1200px-Scilab_logo.svg.png" alt="Scilab" width="30" height="30" style="margin-right:8px;" />
+</a>
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="30" height="30" style="margin-right:8px;" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" style="margin-right:8px;" />
+</a>
 
 #### Frameworks & Frontend  
-[![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg =auto x30)](https://flutter.dev/)  
-[![Django](https://cdn.worldvectorlogo.com/logos/django.svg =auto x30)](https://www.djangoproject.com/)  
-[![Flask](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg =auto x30)](https://flask.palletsprojects.com/)  
-[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg =auto x30)](https://reactjs.org/)  
-[![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg =auto x30)](https://tailwindcss.com/)  
-[![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg =auto x30)](https://getbootstrap.com/)  
+<a href="https://flutter.dev/" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="30" height="30" style="margin-right:8px;" />
+</a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="30" height="30" style="margin-right:8px;" />
+</a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="30" height="30" style="margin-right:8px;" />
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30" height="30" style="margin-right:8px;" />
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="30" height="30" style="margin-right:8px;" />
+</a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="30" height="30" style="margin-right:8px;" />
+</a>
 
 #### Databases  
-[![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg =auto x30)](https://www.mysql.com/)  
-[![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg =auto x30)](https://www.mongodb.com/)  
-[![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg =auto x30)](https://www.sqlite.org/)  
+<a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30" style="margin-right:8px;" />
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="30" height="30" style="margin-right:8px;" />
+</a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="30" height="30" style="margin-right:8px;" />
+</a>
 
 #### DevOps & Microservices  
-[![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg =auto x30)](https://www.jenkins.io/)  
-[![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg =auto x30)](https://www.docker.com/)  
-[![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg =auto x30)](https://kubernetes.io/)  
-[![Helm](https://helm.sh/img/helm.svg =auto x30)](https://helm.sh/)  
-[![Ansible](https://upload.wikimedia.org/wikipedia/commons/7/74/Ansible_logo.svg =auto x30)](https://www.ansible.com/)  
-[![Shell Script](https://upload.wikimedia.org/wikipedia/commons/4/4a/Bash_Logo_Colored.svg =auto x30)](https://www.gnu.org/software/bash/)  
-[![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg =auto x30)](https://www.postman.com/)  
+<a href="https://www.jenkins.io/" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="30" height="30" style="margin-right:8px;" />
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30" height="30" style="margin-right:8px;" />
+</a>
+<a href="https://kubernetes.io/" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="30" height="30" style="margin-right:8px;" />
+</a>
+<a href="https://helm.sh/" target="_blank" rel="noopener noreferrer">
+  <img src="https://helm.sh/img/helm.svg" alt="Helm" width="30" height="30" style="margin-right:8px;" />
+</a>
+<a href="https://www.ansible.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Ansible_logo.svg" alt="Ansible" width="30" height="30" style="margin-right:8px;" />
+</a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Bash_Logo_Colored.svg" alt="Bash" width="30" height="30" style="margin-right:8px;" />
+</a>
+<a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" height="30" style="margin-right:8px;" />
+</a>
 
 #### Cloud & AI Tools  
-[![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg =auto x30)](https://azure.microsoft.com/)  
-[![Lyzr AI](https://raw.githubusercontent.com/lyzr-ai/public/main/lyzr_logo_gradient.png =auto x30)](https://lyzr.ai/)  
-[![GitHub Copilot](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png =auto x30)](https://github.com/features/copilot)  
-[![Google AI Studio](https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png =auto x30)](https://ai.google/tools/)  
-[![Lovable](https://lovable.ai/static/media/lov_logo_blue_icon.2a2f741e.svg =auto x30)](https://lovable.ai/)  
-[![Cursor](https://cursor.so/static/media/cursor_icon.657d757b.svg =auto x30)](https://cursor.so/)  
+<a href="https://azure.microsoft.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="30" height="30" style="margin-right:8px;" />
+</a>
+<a href="https://lyzr.ai/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/lyzr-ai/public/main/lyzr_logo_gradient.png" alt="Lyzr AI" width="30" height="30" style="margin-right:8px;" />
+</a>
+<a href="https://github.com/features/copilot" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Copilot" width="30" height="30" style="margin-right:8px;" />
+</a>
+<a href="https://ai.google/tools/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" alt="Google AI Studio" width="30" height="30" style="margin-right:8px;" />
+</a>
+<a href="https://lovable.ai/" target="_blank" rel="noopener noreferrer">
+  <img src="https://lovable.ai/static/media/lov_logo_blue_icon.2a2f741e.svg" alt="Lovable" width="30" height="30" style="margin-right:8px;" />
+</a>
+<a href="https://cursor.so/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cursor.so/static/media/cursor_icon.657d757b.svg" alt="Cursor" width="30" height="30" style="margin-right:8px;" />
+</a>
 
 #### Software & IDEs  
-[![PyCharm](https://upload.wikimedia.org/wikipedia/commons/1/1f/PyCharm_Icon.svg =auto x30)](https://www.jetbrains.com/pycharm/)  
-[![VSCode](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg =auto x30)](https://code.visualstudio.com/)  
-[![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png =auto x30)](https://github.com/)  
-[![eSim](https://esim.ai/wp-content/uploads/2021/09/esim-logo-1.png =auto x30)](https://esim.ai/)  
-[![Jupyter](https://jupyter.org/assets/nav_logo.svg =auto x30)](https://jupyter.org/)  
-[![Google Colab](https://colab.research.google.com/img/colab_favicon_256px.png =auto x30)](https://colab.research.google.com/)  
-[![AutoCAD](https://upload.wikimedia.org/wikipedia/commons/7/7a/Autodesk_AutoCAD_Logo.svg =auto x30)](https://www.autodesk.com/products/autocad/overview)  
-[![Firebase](https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png =auto x30)](https://firebase.google.com/)
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/PyCharm_Icon.svg" alt="PyCharm" width="30" height="30" style="margin-right:8px;" />
+</a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="30" height="30" style="margin-right:8px;" />
+</a>
+<a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30" height="30" style="margin-right:8px;" />
+</a>
+<a href="https://esim.ai/" target="_blank" rel="noopener noreferrer">
+  <img src="https://esim.ai/wp-content/uploads/2021/09/esim-logo-1.png" alt="eSim" width="30" height="30" style="margin-right:8px;" />
+</a>
+<a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://jupyter.org/assets/nav_logo.svg" alt="Jupyter" width="30" height="30" style="margin-right:8px;" />
+</a>
+<a href="https://colab.research.google.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="30" height="30" style="margin-right:8px;" />
+</a>
+<a href="https://www.autodesk.com/products/autocad/overview" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Autodesk_AutoCAD_Logo.svg" alt="AutoCAD" width="30" height="30" style="margin-right:8px;" />
+</a>
+<a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png" alt="Firebase" width="30" height="30" style="margin-right:8px;" />
+</a>
 
 
 
