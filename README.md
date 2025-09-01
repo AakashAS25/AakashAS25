@@ -16,53 +16,54 @@ I’m Antony Aakash, a motivated Electrical and Electronics Engineering undergra
 ### 🚀 Languages & Tools I Use
 
 #### Programming Languages  
-[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org/) 
-[![Dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg)](https://dart.dev/) 
-[![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.oracle.com/java/) 
-[![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)](https://en.cppreference.com/w/) 
-[![Scilab](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Scilab_logo.svg/1200px-Scilab_logo.svg.png)](https://www.scilab.org/) 
-[![Matlab](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png)](https://www.mathworks.com/products/matlab.html) 
-[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
+[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg =auto x30)](https://www.python.org/)  
+[![Dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg =auto x30)](https://dart.dev/)  
+[![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg =auto x30)](https://www.oracle.com/java/)  
+[![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg =auto x30)](https://en.cppreference.com/w/)  
+[![Scilab](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Scilab_logo.svg/1200px-Scilab_logo.svg.png =auto x30)](https://www.scilab.org/)  
+[![Matlab](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png =auto x30)](https://www.mathworks.com/products/matlab.html)  
+[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg =auto x30)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 
 #### Frameworks & Frontend  
-[![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg)](https://flutter.dev/) 
-[![Django](https://cdn.worldvectorlogo.com/logos/django.svg)](https://www.djangoproject.com/)  
-[![Flask](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg)](https://flask.palletsprojects.com/)  
-[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://reactjs.org/)  
-[![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)](https://tailwindcss.com/)  
-[![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)](https://getbootstrap.com/)  
+[![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg =auto x30)](https://flutter.dev/)  
+[![Django](https://cdn.worldvectorlogo.com/logos/django.svg =auto x30)](https://www.djangoproject.com/)  
+[![Flask](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg =auto x30)](https://flask.palletsprojects.com/)  
+[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg =auto x30)](https://reactjs.org/)  
+[![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg =auto x30)](https://tailwindcss.com/)  
+[![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg =auto x30)](https://getbootstrap.com/)  
 
 #### Databases  
-[![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](https://www.mysql.com/)  
-[![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)](https://www.mongodb.com/)  
-[![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg)](https://www.sqlite.org/)  
+[![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg =auto x30)](https://www.mysql.com/)  
+[![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg =auto x30)](https://www.mongodb.com/)  
+[![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg =auto x30)](https://www.sqlite.org/)  
 
 #### DevOps & Microservices  
-[![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)](https://www.jenkins.io/)  
-[![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)](https://www.docker.com/)  
-[![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg)](https://kubernetes.io/)  
-[![Helm](https://helm.sh/img/helm.svg)](https://helm.sh/)  
-[![Ansible](https://upload.wikimedia.org/wikipedia/commons/7/74/Ansible_logo.svg)](https://www.ansible.com/)  
-[![Shell Script](https://upload.wikimedia.org/wikipedia/commons/4/4a/Bash_Logo_Colored.svg)](https://www.gnu.org/software/bash/)  
-[![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)](https://www.postman.com/)  
+[![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg =auto x30)](https://www.jenkins.io/)  
+[![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg =auto x30)](https://www.docker.com/)  
+[![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg =auto x30)](https://kubernetes.io/)  
+[![Helm](https://helm.sh/img/helm.svg =auto x30)](https://helm.sh/)  
+[![Ansible](https://upload.wikimedia.org/wikipedia/commons/7/74/Ansible_logo.svg =auto x30)](https://www.ansible.com/)  
+[![Shell Script](https://upload.wikimedia.org/wikipedia/commons/4/4a/Bash_Logo_Colored.svg =auto x30)](https://www.gnu.org/software/bash/)  
+[![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg =auto x30)](https://www.postman.com/)  
 
 #### Cloud & AI Tools  
-[![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)](https://azure.microsoft.com/)  
-[![Lyzr AI](https://raw.githubusercontent.com/lyzr-ai/public/main/lyzr_logo_gradient.png)](https://lyzr.ai/)  
-[![GitHub Copilot](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/features/copilot)  
-[![Google AI Studio](https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png)](https://ai.google/tools/)  
-[![Lovable](https://lovable.ai/static/media/lov_logo_blue_icon.2a2f741e.svg)](https://lovable.ai/)  
-[![Cursor](https://cursor.so/static/media/cursor_icon.657d757b.svg)](https://cursor.so/)  
+[![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg =auto x30)](https://azure.microsoft.com/)  
+[![Lyzr AI](https://raw.githubusercontent.com/lyzr-ai/public/main/lyzr_logo_gradient.png =auto x30)](https://lyzr.ai/)  
+[![GitHub Copilot](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png =auto x30)](https://github.com/features/copilot)  
+[![Google AI Studio](https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png =auto x30)](https://ai.google/tools/)  
+[![Lovable](https://lovable.ai/static/media/lov_logo_blue_icon.2a2f741e.svg =auto x30)](https://lovable.ai/)  
+[![Cursor](https://cursor.so/static/media/cursor_icon.657d757b.svg =auto x30)](https://cursor.so/)  
 
 #### Software & IDEs  
-[![PyCharm](https://upload.wikimedia.org/wikipedia/commons/1/1f/PyCharm_Icon.svg)](https://www.jetbrains.com/pycharm/)  
-[![VSCode](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg)](https://code.visualstudio.com/)  
-[![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/)  
-[![eSim](https://esim.ai/wp-content/uploads/2021/09/esim-logo-1.png)](https://esim.ai/)  
-[![Jupyter](https://jupyter.org/assets/nav_logo.svg)](https://jupyter.org/)  
-[![Google Colab](https://colab.research.google.com/img/colab_favicon_256px.png)](https://colab.research.google.com/)  
-[![AutoCAD](https://upload.wikimedia.org/wikipedia/commons/7/7a/Autodesk_AutoCAD_Logo.svg)](https://www.autodesk.com/products/autocad/overview)  
-[![Firebase](https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png)](https://firebase.google.com/)
+[![PyCharm](https://upload.wikimedia.org/wikipedia/commons/1/1f/PyCharm_Icon.svg =auto x30)](https://www.jetbrains.com/pycharm/)  
+[![VSCode](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg =auto x30)](https://code.visualstudio.com/)  
+[![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png =auto x30)](https://github.com/)  
+[![eSim](https://esim.ai/wp-content/uploads/2021/09/esim-logo-1.png =auto x30)](https://esim.ai/)  
+[![Jupyter](https://jupyter.org/assets/nav_logo.svg =auto x30)](https://jupyter.org/)  
+[![Google Colab](https://colab.research.google.com/img/colab_favicon_256px.png =auto x30)](https://colab.research.google.com/)  
+[![AutoCAD](https://upload.wikimedia.org/wikipedia/commons/7/7a/Autodesk_AutoCAD_Logo.svg =auto x30)](https://www.autodesk.com/products/autocad/overview)  
+[![Firebase](https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png =auto x30)](https://firebase.google.com/)
+
 
 
 ---
