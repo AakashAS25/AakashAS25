@@ -69,7 +69,7 @@ Cursor
 eSim &nbsp;
 <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" width="30"/> Jupyter &nbsp;
 Google Colab &nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/autocad-1.svg" alt="AutoCAD" width="30"/> AutoCAD &nbsp;
+AutoCAD &nbsp;
 Firebase 
 
 
