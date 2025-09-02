@@ -16,61 +16,62 @@ I’m Antony Aakash, a motivated Electrical and Electronics Engineering undergra
 ### 🚀 Languages & Tools I Use
 
 #### Programming Languages  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="30"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30"/>&nbsp;
-<strong>Scilab</strong>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="30"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30"/> Python &nbsp;
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="30"/> Dart &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30"/> C &nbsp;
+Scilab &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="30"/> Matlab &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30"/> JavaScript  
 
 ---
 
 #### Frameworks & Frontend  
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="30"/>&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="30"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="30"/>&nbsp;
-<strong>Bootstrap</strong>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="30"/> Flutter &nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="30"/> Django &nbsp;
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="30"/> Flask &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30"/> React &nbsp;
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="30"/> Tailwind CSS &nbsp;
+Bootstrap  
 
 ---
 
 #### Databases  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="30"/>&nbsp;
-<strong>SQLite</strong>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30"/> MySQL &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="30"/> MongoDB &nbsp;
+SQLite  
 
 ---
 
 #### DevOps & Microservices  
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="30"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="30"/>&nbsp;
-<img src="https://helm.sh/img/helm.svg" alt="Helm" width="30"/>&nbsp;
-<strong>Ansible</strong>&nbsp;
-<strong>Bash</strong>&nbsp;
-<strong>Postman</strong>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="30"/> Jenkins &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30"/> Docker &nbsp;
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="30"/> Kubernetes &nbsp;
+<img src="https://helm.sh/img/helm.svg" alt="Helm" width="30"/> Helm &nbsp;
+Ansible &nbsp;
+Bash &nbsp;
+Postman  
 
 ---
 
 #### Cloud & AI Tools  
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="30"/>&nbsp;
-<strong>Lyzr AI</strong>&nbsp;
-<strong>GitHub Copilot</strong>&nbsp;
-<strong>Google AI Studio</strong>&nbsp;
-<strong>Lovable</strong>&nbsp;
-<strong>Cursor</strong>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="30"/> Azure &nbsp;
+Lyzr AI &nbsp;
+GitHub Copilot &nbsp;
+Google AI Studio &nbsp;
+Lovable &nbsp;
+Cursor  
 
 ---
 
 #### Software & IDEs  
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/PyCharm_Icon.svg" alt="PyCharm" width="30"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="30"/>&nbsp;
-<strong>eSim</strong>&nbsp;
-<img src="https://jupyter.org/assets/nav_logo.svg" alt="Jupyter" width="30"/>&nbsp;
-<strong>Google Colab</strong>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Autodesk_AutoCAD_Logo.svg" alt="AutoCAD" width="30"/>&nbsp;
-<strong>Firebase</strong>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/PyCharm_Icon.svg" alt="PyCharm" width="30"/> PyCharm &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="30"/> VSCode &nbsp;
+eSim &nbsp;
+<img src="https://jupyter.org/assets/nav_logo.svg" alt="Jupyter" width="30"/> Jupyter &nbsp;
+Google Colab &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Autodesk_AutoCAD_Logo.svg" alt="AutoCAD" width="30"/> AutoCAD &nbsp;
+Firebase  
+
 
 
 
