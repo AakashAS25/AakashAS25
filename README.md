@@ -2,7 +2,7 @@
 
 I’m Antony Aakash, a motivated Electrical and Electronics Engineering undergraduate passionate about programming and technology innovation. 
 
-- 🔭 I’m currently working on AI-driven full-stack applications using Flask, React, and Flutter.
+- 🔭 I’m currently working on AI-driven full-stack applications using Flask, React.
 - 🌱 I’m currently learning advanced AI tools such as Google Gemini and expanding cloud AI services knowledge.
 - 👯 I’m looking to collaborate on open-source projects involving AI, IoT, and embedded systems.
 - 🤔 I’m looking for help with deepening my expertise in DevOps automation and Kubernetes best practices.
