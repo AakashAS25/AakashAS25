@@ -64,13 +64,13 @@ Cursor
 ---
 
 #### Software & IDEs  
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/PyCharm_Icon.svg" alt="PyCharm" width="30"/> PyCharm &nbsp;
+<img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm" width="30"/> PyCharm &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="30"/> VSCode &nbsp;
 eSim &nbsp;
-<img src="https://jupyter.org/assets/nav_logo.svg" alt="Jupyter" width="30"/> Jupyter &nbsp;
+<img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter" width="30"/> Jupyter &nbsp;
 Google Colab &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Autodesk_AutoCAD_Logo.svg" alt="AutoCAD" width="30"/> AutoCAD &nbsp;
-Firebase  
+<img src="https://cdn.worldvectorlogo.com/logos/autocad-1.svg" alt="AutoCAD" width="30"/> AutoCAD &nbsp;
+Firebase 
 
 
 
