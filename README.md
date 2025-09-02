@@ -28,7 +28,7 @@ Scilab &nbsp;
 #### Frameworks & Frontend  
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="30"/> Flutter &nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="30"/> Django &nbsp;
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="30"/> Flask &nbsp;
+Flask &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30"/> React &nbsp;
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="30"/> Tailwind CSS &nbsp;
 Bootstrap  
